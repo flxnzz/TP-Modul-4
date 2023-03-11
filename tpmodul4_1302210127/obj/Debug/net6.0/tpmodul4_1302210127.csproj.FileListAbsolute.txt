@@ -1,0 +1,15 @@
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.csproj.AssemblyReference.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.AssemblyInfoInputs.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.AssemblyInfo.cs
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.csproj.CoreCompileInputs.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\bin\Debug\net6.0\tpmodul4_1302210127.exe
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\bin\Debug\net6.0\tpmodul4_1302210127.deps.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\bin\Debug\net6.0\tpmodul4_1302210127.runtimeconfig.json
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\bin\Debug\net6.0\tpmodul4_1302210127.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\bin\Debug\net6.0\tpmodul4_1302210127.pdb
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\refint\tpmodul4_1302210127.dll
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.pdb
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\tpmodul4_1302210127.genruntimeconfig.cache
+C:\Users\Haikal\Documents\0.1 Tugas Kuliah\Semester 4\Konstruksi Perangkat Lunak\tpmodul4_1302210127\tpmodul4_1302210127\obj\Debug\net6.0\ref\tpmodul4_1302210127.dll

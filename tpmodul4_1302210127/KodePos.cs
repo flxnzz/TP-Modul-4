@@ -1,4 +1,6 @@
-﻿public class Program
+﻿using System;
+
+public class KodePos
 {
     public enum daerah
     {
@@ -11,11 +13,5 @@
         int[] postalCode = { 40266, 40287, 40267, 40256, 40287,
         40286, 40286, 40286, 40272, 40274, 40273};
         return postalCode[(int)input];
-    }
-    public static void Main(string[] args)
-    {
-        daerah inputDaerah = daerah.Margasari;
-        int result = getKodePos(inputDaerah);
-        Console.WriteLine(result);
     }
 }
